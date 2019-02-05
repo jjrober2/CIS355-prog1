@@ -4,8 +4,8 @@ class Database
 	// these are not the real passwords
 	// for real passwords, see file in ../database subdirectory
         private static $dbName = 'test';
-        private static $dbHost = '127.0.0.1';
-        private static $dbUsername = 'root';
+        private static $dbHost = '10.8.30.49';
+        private static $dbUsername = 'jjrober2355wi19';
         private static $dbUserPassword = 'Rim.sky1844';
         private static $cont = null;
 	
