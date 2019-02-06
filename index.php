@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div>
-            <a href="#">Github Repo</a>
+            <a href="https://github.com/jjrober2/CIS355-prog1">Github Repo</a>
         </div>
     		<div class="row">
     			<h3>PHP CRUD Grid</h3>
